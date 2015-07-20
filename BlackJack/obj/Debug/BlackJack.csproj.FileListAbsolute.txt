@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.blackJackForm.resources
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Mike\documents\visual studio 2013\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
