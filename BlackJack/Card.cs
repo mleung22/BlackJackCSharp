@@ -19,24 +19,27 @@ namespace BlackJack
 
         public Suits getSuit() 
         {
-		    return suits;
-	    }
+	    return suits;
+	}
 
-	    public void setSuit(Suits suit) 
+	public void setSuit(Suits suit) 
         {
-		    this.suits = suit;
-	    }
+	    this.suits = suit;
+	}
 
-	    public Ranks getRank() {    
+	public Ranks getRank() 
+	{    
             return ranks;
-	    }
+	}
 
-	    public void setRank(Ranks rank) {
+	public void setRank(Ranks rank) 
+	{
             this.ranks = rank;                    
-	    }
+	}
 
-	    public override String ToString() {
-		    return ranks + " of " + suits;
-	    }
+	public override String ToString() 
+	{
+	    return ranks + " of " + suits;
+	}
     }
 }
